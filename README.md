@@ -1,1 +1,2 @@
 # TIPowerStageDesignerTool
+TI公司开关电源设计工具，用于粗略计算所需电感量，并可查看相关波形
